@@ -1,4 +1,4 @@
-# Web Test Automation
+# Rest-assured-Api-local-Java
 
 Projeto de automação de testes web, maven, com os seguintes recursos:
 
